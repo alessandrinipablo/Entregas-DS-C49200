@@ -8,34 +8,3 @@ Modelado de Machine Learning: Selección, entrenamiento y evaluación de modelos
 Conclusiones y Recomendaciones: Resumen de los hallazgos clave del análisis y las recomendaciones basadas en ellos.
 
 
-Abstracto:
-En este análisis de datos, exploraremos un conjunto de datos tabulares con el objetivo de obtener información valiosa y responder preguntas importantes para una audiencia específica. Utilizaremos técnicas de análisis exploratorio de datos (EDA) y modelos de machine learning para extraer conocimientos significativos de los datos. Este análisis está dirigido a [mencionar la audiencia específica, por ejemplo, analistas deportivos, científicos de datos, inversores, etc.] interesados en comprender [mencionar el tema o dominio de los datos, por ejemplo, rendimiento de jugadores de fútbol, tendencias del mercado financiero, etc.].
-
-Preguntas/Hipótesis:
-¿Cuál es la distribución de las características clave en nuestros datos?
-¿Existe alguna correlación entre las variables predictoras y la variable objetivo?
-¿Qué características tienen mayor impacto en la variable objetivo?
-¿Podemos predecir con precisión [mencionar la variable objetivo] utilizando modelos de machine learning?
-Estructura del Análisis:
-Carga de Datos: Importar el conjunto de datos tabulares en Python.
-Análisis Exploratorio de Datos (EDA):
-Estadísticas descriptivas: Calcular estadísticas resumidas para entender la distribución de los datos.
-Visualizaciones: Crear gráficos y visualizaciones para explorar las relaciones entre las variables y identificar patrones.
-Correlación: Calcular la correlación entre las variables y la variable objetivo.
-Preprocesamiento de Datos:
-Limpieza de datos: Tratar con valores faltantes, duplicados u otros problemas de calidad de datos.
-Codificación de Variables Categóricas: Convertir variables categóricas en un formato adecuado para el modelado.
-División de Datos: Separar los datos en conjuntos de entrenamiento y prueba.
-Modelado de Machine Learning:
-Selección del Modelo: Elegir un modelo apropiado para el problema (por ejemplo, Regresión Lineal, Random Forest, etc.).
-Entrenamiento del Modelo: Ajustar el modelo a los datos de entrenamiento.
-Evaluación del Modelo: Evaluar el rendimiento del modelo utilizando métricas adecuadas (por ejemplo, precisión, R cuadrado, etc.).
-Conclusiones y Recomendaciones: Resumir los hallazgos del análisis y proporcionar recomendaciones basadas en los resultados.
-
-
-
-Estructura del Análisis: Detalle de los pasos que seguirás para llevar a cabo el análisis, que incluye desde la carga de datos hasta la evaluación de los modelos de machine learning.
-Carga de Datos: Importación de los datos.
-Análisis Exploratorio de Datos (EDA): Exploración inicial de los datos mediante estadísticas descriptivas y visualizaciones.
-Preprocesamiento de Datos: Limpieza y preparación de los datos para el modelado.
-Modelado de Machine Learning: Selección, entrenamiento y evaluación de modelos de machine learning.
